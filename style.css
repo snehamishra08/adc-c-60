@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: teal;
+}
+#apps{
+    width:100%;
+    height: 800px;
+}
+#mygames{
+    width:100%;
+    height: 500px;
+}
+img{
+   transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9)
+}
